@@ -6,7 +6,7 @@ function Hero() {
       <p className="text-lg text-gray-700 max-w-xl animate-fade-in-up">
         A passionate Computer Science grad student specializing in full-stack development, cloud-native technologies, and research.
       </p>
-      <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+      <a href="public/resume.pdf" target="_blank" rel="noopener noreferrer">
         <button className="mt-6 px-6 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition duration-300">
           View Resume
         </button>
