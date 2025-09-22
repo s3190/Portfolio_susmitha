@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/s3190/Portfolio_susmitha/static/css/main.2db8fce3.css",
-    "main.js": "/s3190/Portfolio_susmitha/static/js/main.f0bd6912.js",
-    "static/js/453.dc869cbb.chunk.js": "/s3190/Portfolio_susmitha/static/js/453.dc869cbb.chunk.js",
-    "index.html": "/s3190/Portfolio_susmitha/index.html",
-    "main.2db8fce3.css.map": "/s3190/Portfolio_susmitha/static/css/main.2db8fce3.css.map",
-    "main.f0bd6912.js.map": "/s3190/Portfolio_susmitha/static/js/main.f0bd6912.js.map",
-    "453.dc869cbb.chunk.js.map": "/s3190/Portfolio_susmitha/static/js/453.dc869cbb.chunk.js.map"
+    "main.css": "/Portfolio_susmitha/static/css/main.2db8fce3.css",
+    "main.js": "/Portfolio_susmitha/static/js/main.b1e803da.js",
+    "static/js/453.dc869cbb.chunk.js": "/Portfolio_susmitha/static/js/453.dc869cbb.chunk.js",
+    "index.html": "/Portfolio_susmitha/index.html",
+    "main.2db8fce3.css.map": "/Portfolio_susmitha/static/css/main.2db8fce3.css.map",
+    "main.b1e803da.js.map": "/Portfolio_susmitha/static/js/main.b1e803da.js.map",
+    "453.dc869cbb.chunk.js.map": "/Portfolio_susmitha/static/js/453.dc869cbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2db8fce3.css",
-    "static/js/main.f0bd6912.js"
+    "static/js/main.b1e803da.js"
   ]
 }
